@@ -26,7 +26,7 @@
 Here are some of my best projects (pin these in GitHub for recruiters):
 
 1. **Shopaura** – [GitHub Repo](https://github.com/sujana15/shopaura) | HTML, Css 
-2. **To-Do List ** – [GitHub Repo]() | Html,TailwindCss,React 
+2. **To-Do List ** – [GitHub Repo](https://github.com/sujana15/To-Do-List) | Html,TailwindCss,React 
 3. **Get Me Chai (Payment App)** – [GitHub Repo](#) | Html,TailwindCss,React, Node.js, MongoDB
 4. **E-Commerce** – [GitHub Repo](https://github.com/sujana15/E-Commerce) | HTML, TailwindCSS, React,Next js,Node js,Mongodb,ExpressJs
 4. **BitTree** – [GitHub Repo](#) | HTML, TailwindCSS,Next js,Mongodb,ExpressJs
